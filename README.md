@@ -16,7 +16,7 @@ module.exports = {
   plugins: [
     // ...
     require('./path/to/plugin-file')({
-      grids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      columns: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       gutter: 30,
       variants: ['responsive'],
     }),
