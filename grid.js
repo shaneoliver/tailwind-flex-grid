@@ -15,6 +15,8 @@ module.exports = function ({ columns = _.range(1, 12), gutter, variants = ['resp
 				flexBasis: 0,
 				flexGrow: 1,
 				maxWidth: '100%',
+				paddingRight: `${gutter / 2}px`,
+				paddingLeft: `${gutter / 2}px`,
 			}},	
 
 			...columns.map(size => ({
