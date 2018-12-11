@@ -1,4 +1,4 @@
-# tailwind-flex-grid
+# Tailwind Flex Grid
 Tailwind CSS Bootstrap 4 like columns plugin
 
 ## Flexbox grid
