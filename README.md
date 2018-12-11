@@ -34,3 +34,8 @@ The plugin generates the following sets of classes:
 - `.order-last`, for placing the element last in the row
 - `.order-{size}`, for placing the element at specific places in the row
 - `.offset-{size}`, for the margin-left offset for the element
+
+## Installing
+```js
+npm install tailwind-flex-grid --save-dev
+```
